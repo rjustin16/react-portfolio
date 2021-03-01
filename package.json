@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@carbon/icons-react": "^10.23.0",
+    "@carbon/themes": "^10.25.0",
+    "carbon-components": "^10.26.0",
+    "carbon-components-react": "^7.26.0",
+    "node-sass": "^5.0.0",
+    "react-router-dom": "^5.2.0",
+    "styled-components": "^5.2.1"
+  }
+}
